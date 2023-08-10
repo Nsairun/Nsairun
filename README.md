@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Nsairun/Nsairun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+<div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="350"/>
+  </div>
+
+  
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+## :fire: My Stats :chart_with_upwards_trend:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nsairun&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Nsairun' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nsairun&count_private=true&hide_title=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nsairun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <br />
+
+  ## backend skills
+
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+  ## forntend
+  [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/emmansairun)
